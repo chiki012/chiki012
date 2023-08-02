@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, I'm Priyanka Kachhawaha</h1>
 <h3 align="center">A passionate frontend developer </h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Advance JavaScript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
