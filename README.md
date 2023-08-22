@@ -72,7 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/chiki012/chiki012/output/snake.svg" alt="Snake animation" />
 
 ###
 
