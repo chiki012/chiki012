@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"  />
+  <img height="250" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"  />
 </div>
 
 ###
@@ -17,7 +17,13 @@
 
 ###
 
-<h2 align="center">hey 👋 I'm Priyanka Kachhawaha</h2>
+<h2 align="center">Namaste 🙏🏻 I'm Priyanka Kachhawaha</h2>
+
+
+###
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=200&color=0EBDCA&center=true&width=435&lines=A+FRONTEND+DEVELOPER;UI+Designer;TECH+ENTHUSIAST;CSE+UNDERGRADUATE" alt="Typing SVG" /></a>
+
 
 ###
 
