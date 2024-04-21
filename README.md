@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm from Bikaner(Rajasthan)<br><br>- 🌱 I’m currently learning Advance JavaScript<br>- 💬 Ask me about HTML, CSS, JavaScript<br>- 📫 How to reach me priyanka.kachhawaha.2626@gmail.com</p>
+<p align="left">I'm from Bikaner(Rajasthan)<br><br>- 🌱 I’m currently focusing on Full stack development<br>- 💬 Ask me about HTML, CSS, JavaScript<br>- 📫 How to reach me priyanka.kachhawaha.2626@gmail.com</p>
 
 ###
 
