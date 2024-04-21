@@ -31,7 +31,9 @@
 
 ###
 
-<p align="left">I'm from Bikaner(Rajasthan)<br><br>- 🌱 I’m currently focusing on Full stack development<br>- 💬 Ask me about HTML, CSS, JavaScript<br>- 📫 How to reach me priyanka.kachhawaha.2626@gmail.com</p>
+<p align="left">I'm from Bikaner(Rajasthan)<br><br>- 🌱 I’m currently focusing on Full stack development<br>- 💬 Languages: Java, JavaScript, Python, SQL <br>-
+Tools: Figma, Power BI, VS Code, Jupyter Notebooks<br>-
+Frameworks: Node JS, React JS, Bootstrap, Larave<br>- 📫 How to reach me priyanka.kachhawaha.2626@gmail.com</p>
 
 ###
 
