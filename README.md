@@ -22,7 +22,7 @@
 
 ###
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=200&color=0EBDCA&center=true&width=435&lines=A+FRONTEND+DEVELOPER;UI+Designer;TECH+ENTHUSIAST;CSE+UNDERGRADUATE" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=200&color=0EBDCA&center=true&width=435&lines=APPLICATION+ENGINEER;A+FULLSTACK+DEVELOPER;UI+Designer;TECH+ENTHUSIAST;CSE+UNDERGRADUATE" alt="Typing SVG" /></a>
 
 
 ###
