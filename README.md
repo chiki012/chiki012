@@ -31,9 +31,12 @@
 
 ###
 
-<p align="left">I'm from Bikaner(Rajasthan)<br><br>- 🌱 I’m currently focusing on Full stack development<br>- 💬 Languages: Java, JavaScript, Python, SQL <br>-
-Tools: Figma, Power BI, VS Code, Jupyter Notebooks<br>-
-Frameworks: Node JS, React JS, Bootstrap, Larave<br>- 📫 How to reach me priyanka.kachhawaha.2626@gmail.com</p>
+<p align="left">I'm from Bikaner(Rajasthan)<br><br>- 🌱 I’m currently working at FLIPKART as an Application Engineer <br>- 💬 Languages: Java, JavaScript, Python, SQL <br>-
+Full Stack Technologies: HTML, CSS, React, NodeJs, Express, Laravel, MySQL<br>-
+DevOps: GitHub, Docker, Kubernetes<br>- 
+Cloud Platforms: Amazon Web Services (S3, EC2)<br>- 
+Tools: Git, Jira, Power BI, Figma, Canva<br>- 
+📫 How to reach me priyanka.kachhawaha.2626@gmail.com</p>
 
 ###
 
